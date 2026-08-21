@@ -17,13 +17,12 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently building enterprise compliance automation systems as a **Software Engineer @ Thoropass**
 - 🌱 Full-stack engineer with strong experience in **Python/Django** and **TypeScript/React**
 - 🛠️ Also work with **Go, Node.js, Vue, Nuxt.js, and Celery**
 - 🏗️ Interested in distributed systems, system design, and developer tooling
 - 🤖 Actively exploring AI-assisted development workflows (Claude Code!)
 - 🎓 B.S. in Computer Science — Universidad Nacional de Ingeniería (UNI), Lima, Peru
-- 🗣️ Spanish (Native) · English (Advanced) · Japanese (Basic)
+- 🗣️ Spanish (Native) · English (Advanced)
 
 ---
 
