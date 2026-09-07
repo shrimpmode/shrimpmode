@@ -68,20 +68,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-Check out my pinned repositories below for hands-on examples of my work. Some highlights from my professional experience:
-
-- Architected distributed workflow systems (Django + Celery) for compliance automation at scale
-- Built internal developer tooling — reusable npm packages and GitHub Actions CI/CD workflows used across 5+ engineering teams
-- Contributed reusable React components to a company-wide design system
-
----
-
-</p>
-
----
-
 <p align="center">
   <a href="https://www.linkedin.com/in/juliocsil444/">LinkedIn</a> ·
   <a href="https://shrimpmode.github.io/juliocesar/">Portfolio</a> ·
