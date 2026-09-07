@@ -78,15 +78,6 @@ Check out my pinned repositories below for hands-on examples of my work. Some hi
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-nine.vercel.app/api?username=shrimpmode&show_icons=true&theme=default&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats-sigma-nine.vercel.app/api/top-langs/?username=shrimpmode&layout=compact&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shrimpmode&hide_border=true"/>
 </p>
 
 ---
