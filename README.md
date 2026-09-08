@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julio Cesar Silva Leon</h1>
-<h3 align="center">Full-Stack Software Engineer based in Lima, Peru</h3>
+<h3 align="center">Software Engineer with 7+ years building scalable backend & full-stack systems · Lima, Peru</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/juliocsil444/">
@@ -17,11 +17,13 @@
 
 ### 🚀 About Me
 
-- 🌱 Full-stack engineer with strong experience in **Python/Django** and **TypeScript/React**
-- 🛠️ Also work with **Go, Node.js, Vue, Nuxt.js, and Celery**
-- 🏗️ Interested in distributed systems, system design, and developer tooling
-- 🤖 Actively exploring AI-assisted development workflows (Claude Code!)
+- 💼 Software Engineer with **7+ years** building scalable backend and full-stack systems
+- 🌱 Strong experience in **Python/Django** and **TypeScript/React**, plus **Go, Node.js, Vue, Nuxt.js, Next.js, and Celery**
+- 🏗️ Design distributed workflows, REST/GraphQL APIs, asynchronous processing systems, and technical architecture end-to-end
+- 🤖 Building AI-powered applications using **RAG**, LLM APIs (Claude), vector search, and **pgvector**
+- ☁️ Comfortable across the stack with **Docker, GitHub Actions, CI/CD, and AWS**
 - 🎓 B.S. in Computer Science — Universidad Nacional de Ingeniería (UNI), Lima, Peru
+- 🎓 Pursuing a Master's in Data Science and Artificial Intelligence — Universidad de Ingeniería y Tecnología (UTEC), Lima, Peru (2026–Present)
 - 🗣️ Spanish (Native) · English (Advanced)
 
 ---
@@ -41,6 +43,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
@@ -55,11 +58,21 @@
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
+
+**AI**
+
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-6E56CF?style=flat-square&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vector_Search-6E56CF?style=flat-square&logo=databricks&logoColor=white"/>
 </p>
 
 **Cloud, Tooling & Practices**
 
 <p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white"/>
