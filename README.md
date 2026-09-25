@@ -25,6 +25,7 @@
 ### 🧰 Tools I work with
 
 **⚙️ Backend & APIs**
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
@@ -36,6 +37,7 @@
 </p>
 
 **🎨 Frontend**
+
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -47,6 +49,7 @@
 </p>
 
 **🧠 Data & AI**
+
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
@@ -56,36 +59,9 @@
 </p>
 
 **🚀 Developer tooling**
+
 <p>
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/CI%2FCD-555555?style=flat-square" alt="CI/CD" />
 </p>
-
----
-
-### ⚡ What I do
-
-**🔐 Product features, end to end**<br>
-I take features from data model to UI: Django or FastAPI on the backend, React or Vue on the frontend, and GraphQL or REST in between. Much of this work has been on compliance products.
-
-**⏱️ Async & background systems**<br>
-I build task queues and background workers with Celery, so slow work doesn’t block users.
-
-**🧠 RAG & LLM features**<br>
-I build retrieval pipelines with pgvector and PostgreSQL, and connect them to LLM APIs to create AI features for real products.
-
-**🧰 Shared developer tooling**<br>
-I publish npm packages and set up GitHub Actions CI/CD pipelines, so other teams can build on shared code.
-
-**🔄 Frontend migrations & modernization**<br>
-I migrate existing apps to Vue and Nuxt, and build React and TypeScript applications for enterprise clients.
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrimpmode&show_icons=true&hide_border=true&theme=transparent&title_color=F97362&icon_color=F97362" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrimpmode&layout=compact&hide_border=true&theme=transparent&title_color=F97362" height="165" alt="Top languages" />
-</p>
-
-<p align="center"><i>🦐 Always in shrimp mode: small, fast, and hard to catch.</i></p>
