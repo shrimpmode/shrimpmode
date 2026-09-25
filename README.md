@@ -1,33 +1,91 @@
-<h1 align="center">Hi, I'm Julio Cesar Silva </h1>
+<h1 align="center">Hi, I'm Julio Cesar Silva 👋🦐</h1>
+
 <p align="center">
-  <strong> Software Engineer · Python & TypeScript · Lima, Peru</strong>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F97362&center=true&vCenter=true&width=520&lines=Software+Engineer+%C2%B7+Python+%26+TypeScript;Backend%2C+frontend%2C+and+everything+between;RAG%2C+async+systems+%26+developer+tooling;Building+from+Lima%2C+Peru+%F0%9F%87%B5%F0%9F%87%AA" alt="Typing intro" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/juliocsil444/">LinkedIn</a> ·
-  <a href="https://shrimpmode.github.io/juliocesar/">Portfolio</a> ·
-  <a href="mailto:jcsile444@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/juliocsil444/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://shrimpmode.github.io/juliocesar/"><img src="https://img.shields.io/badge/Portfolio-F97362?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:jcsile444@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-## Tools I work with
+---
 
-| Area | Technologies |
-| --- | --- |
-| **Backend & APIs** | Python, Django, FastAPI, Node.js, Celery, REST, GraphQL |
-| **Frontend** | TypeScript, JavaScript, React, Next.js, Vue, Nuxt, Apollo Client |
-| **Data & AI** | PostgreSQL, MySQL, pgvector, RAG, LLM APIs |
-| **Developer tooling** | npm packages, GitHub Actions, CI/CD |
-| **Earlier experience** | PHP, Laravel |
-## Experience
+### 🦐 About me
 
-| Role | Focus | Dates |
-| --- | --- | --- |
-| **Software Engineer · Thoropass** | End-to-end compliance features, asynchronous systems, RAG, and shared developer tooling | Nov 2021–2026 |
-| **Software Engineer · Encora** | Assigned full-time to Thoropass; Django and GraphQL services with React and TypeScript interfaces | Nov 2020–Oct 2021 |
-| **Software Engineer · Globant** | Enterprise web applications for Autodesk using React, Vue, and TypeScript | Apr 2019–Nov 2020 |
-| **Junior Software Developer · Arya Peru** | Vue migrations across three client projects, Nuxt interfaces, and Laravel REST APIs | 2018 |
+- 🛠️ Software engineer with **7+ years** shipping web products end to end
+- 🧩 Full-stack: **Python** services on the back, **TypeScript** interfaces on the front
+- 🌎 Based in **Lima, Peru** · 🗣️ Spanish (native) · English (advanced)
 
+---
 
+### 🧰 Tools I work with
 
-**Languages:** Spanish (native) · English (advanced)
+**⚙️ Backend & APIs**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery" />
+  <img src="https://img.shields.io/badge/REST-555555?style=flat-square&logo=openapiinitiative&logoColor=white" alt="REST" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
+</p>
 
+**🎨 Frontend**
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" alt="Nuxt" />
+  <img src="https://img.shields.io/badge/Apollo_Client-311C87?style=flat-square&logo=apollographql&logoColor=white" alt="Apollo Client" />
+</p>
+
+**🧠 Data & AI**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector" />
+  <img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/LLM_APIs-FF6F00?style=flat-square" alt="LLM APIs" />
+</p>
+
+**🚀 Developer tooling**
+<p>
+  <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/CI%2FCD-555555?style=flat-square" alt="CI/CD" />
+</p>
+
+---
+
+### ⚡ What I do
+
+**🔐 Product features, end to end**<br>
+I take features from data model to UI: Django or FastAPI on the backend, React or Vue on the frontend, and GraphQL or REST in between. Much of this work has been on compliance products.
+
+**⏱️ Async & background systems**<br>
+I build task queues and background workers with Celery, so slow work doesn’t block users.
+
+**🧠 RAG & LLM features**<br>
+I build retrieval pipelines with pgvector and PostgreSQL, and connect them to LLM APIs to create AI features for real products.
+
+**🧰 Shared developer tooling**<br>
+I publish npm packages and set up GitHub Actions CI/CD pipelines, so other teams can build on shared code.
+
+**🔄 Frontend migrations & modernization**<br>
+I migrate existing apps to Vue and Nuxt, and build React and TypeScript applications for enterprise clients.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shrimpmode&show_icons=true&hide_border=true&theme=transparent&title_color=F97362&icon_color=F97362" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrimpmode&layout=compact&hide_border=true&theme=transparent&title_color=F97362" height="165" alt="Top languages" />
+</p>
+
+<p align="center"><i>🦐 Always in shrimp mode: small, fast, and hard to catch.</i></p>
