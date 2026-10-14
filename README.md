@@ -1,10 +1,4 @@
-<h1 align="center">Hi, I'm Julio Cesar Silva 👋🦐</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F97362&center=true&vCenter=true&width=520&lines=Software+Engineer+%C2%B7+Python+%26+TypeScript;Backend%2C+frontend%2C+and+everything+between;RAG%2C+async+systems+%26+developer+tooling;Building+from+Lima%2C+Peru+%F0%9F%87%B5%F0%9F%87%AA" alt="Typing intro" />
-  </a>
-</p>
+<h1 align="center">Hi, I'm Julio Cesar ⭐️</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/juliocsil444/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -14,15 +8,7 @@
 
 ---
 
-### 🦐 About me
-
-- 🛠️ Software engineer with **7+ years** shipping web products end to end
-- 🧩 Full-stack: **Python** services on the back, **TypeScript** interfaces on the front
-- 🌎 Based in **Lima, Peru** · 🗣️ Spanish (native) · English (advanced)
-
----
-
-### 🧰 Tools I work with
+### 🧰 Tech stack
 
 **⚙️ Backend & APIs**
 
@@ -58,10 +44,3 @@
   <img src="https://img.shields.io/badge/LLM_APIs-FF6F00?style=flat-square" alt="LLM APIs" />
 </p>
 
-**🚀 Developer tooling**
-
-<p>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/CI%2FCD-555555?style=flat-square" alt="CI/CD" />
-</p>
